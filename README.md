@@ -1,0 +1,1 @@
+This assignment was a spellchecker using a binary search tree. We used the data structure to make the performance of testing each word in a document to be very fast, as we were loading in 14,000 words to be checked against.
